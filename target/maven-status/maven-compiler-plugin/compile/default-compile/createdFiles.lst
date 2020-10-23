@@ -1,0 +1,12 @@
+com\javatechie\crud\example\SpringBootCrudExample2Application.class
+com\javatechie\crud\example\service\UserService.class
+com\javatechie\crud\example\controller\MovieController.class
+com\javatechie\crud\example\repository\UserRepository.class
+com\javatechie\crud\example\exceptions\MovieNotFoundException.class
+com\javatechie\crud\example\entity\Movie.class
+com\javatechie\crud\example\repository\MovieRepository.class
+com\javatechie\crud\example\controller\UserController.class
+com\javatechie\crud\example\service\MovieService.class
+com\javatechie\crud\example\entity\User.class
+com\javatechie\crud\example\exceptions\UserNotFoundException.class
+com\javatechie\crud\example\dto\CreateUserDto.class
